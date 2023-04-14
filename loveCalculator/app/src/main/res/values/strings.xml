@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculatorBenkovic</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="love_calculator">Love calculator</string>
+    <string name="enter_second_name">Enter Second Name</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string-array name="color_modes">
+        <item>Pink Mode</item>
+        <item>Blue Mode</item>
+    </string-array>
+</resources>
